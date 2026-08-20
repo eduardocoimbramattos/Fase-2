@@ -1,0 +1,48 @@
+{
+  "best_model": "random_forest",
+  "dataset_path": "data.csv",
+  "target": "dangerous_binary",
+  "positive_label": "Dangerous=Yes",
+  "selection_rule": "Maior recall na validacao; desempate por f1_yes e accuracy.",
+  "decision_threshold": 0.33,
+  "genetic_parameters_all_models": {
+    "logistic_regression": {
+      "experiment": "E3_pop12_mut50",
+      "genes": {
+        "C": 10.0,
+        "penalty": "l2",
+        "class_weight": null
+      }
+    },
+    "decision_tree": {
+      "experiment": "E1_pop6_mut10",
+      "genes": {
+        "max_depth": 3,
+        "min_samples_split": 14,
+        "min_samples_leaf": 5,
+        "max_features": "log2",
+        "class_weight": null
+      }
+    },
+    "random_forest": {
+      "experiment": "E2_pop8_mut30",
+      "genes": {
+        "n_estimators": 575,
+        "max_depth": 14,
+        "min_samples_split": 3,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "class_weight": "balanced"
+      }
+    },
+    "knn": {
+      "experiment": "E3_pop12_mut50",
+      "genes": {
+        "n_neighbors": 4,
+        "weights": "distance",
+        "p": 1,
+        "leaf_size": 17
+      }
+    }
+  }
+}

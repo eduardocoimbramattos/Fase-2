@@ -1,0 +1,29 @@
+{
+  "train_rows": 504,
+  "validation_rows": 168,
+  "test_rows": 169,
+  "feature_columns": [
+    "AnimalName",
+    "symptoms1",
+    "symptoms2",
+    "symptoms3",
+    "symptoms4",
+    "symptoms5",
+    "unique_symptom_count",
+    "unknown_symptom_count",
+    "symptom_text_length"
+  ],
+  "categorical_columns": [
+    "AnimalName",
+    "symptoms1",
+    "symptoms2",
+    "symptoms3",
+    "symptoms4",
+    "symptoms5"
+  ],
+  "numeric_columns": [
+    "unique_symptom_count",
+    "unknown_symptom_count",
+    "symptom_text_length"
+  ]
+}

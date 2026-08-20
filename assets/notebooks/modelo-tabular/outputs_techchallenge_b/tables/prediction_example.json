@@ -1,0 +1,17 @@
+{
+  "input": {
+    "AnimalName": "buffaloes",
+    "symptoms1": "fever",
+    "symptoms2": "dyspnea",
+    "symptoms3": "coughing",
+    "symptoms4": "lethargy",
+    "symptoms5": "loss of appetite",
+    "unique_symptom_count": 5,
+    "unknown_symptom_count": 0,
+    "symptom_text_length": 48
+  },
+  "prediction_binary": 1,
+  "prediction_label": "Yes - perigoso",
+  "probability_yes": 1.0,
+  "warning": "A previsao e apenas apoio a triagem. A decisao final deve ser do profissional de saude."
+}

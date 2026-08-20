@@ -1,0 +1,10 @@
+feature,importance,method
+symptoms1,0.002025978073882273,permutation_importance
+unique_symptom_count,0.0,permutation_importance
+symptoms2,0.0,permutation_importance
+symptoms3,0.0,permutation_importance
+symptoms4,0.0,permutation_importance
+symptom_text_length,0.0,permutation_importance
+unknown_symptom_count,0.0,permutation_importance
+AnimalName,-0.0002352471510540799,permutation_importance
+symptoms5,-0.0004945064825304287,permutation_importance

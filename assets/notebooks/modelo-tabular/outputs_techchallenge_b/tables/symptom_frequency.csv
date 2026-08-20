@@ -1,0 +1,861 @@
+symptom,count
+fever,275
+loss of appetite,189
+weight loss,166
+diarrhea,154
+coughing,111
+depression,86
+lethargy,83
+pains,83
+vomiting,75
+pain,74
+weakness,70
+nasal discharge,64
+death,60
+lameness,44
+sneezing,43
+swelling,38
+difficulty in breathing,38
+dehydration,32
+dyspnea,24
+blindness,24
+wasting,21
+seizures,21
+sudden death,20
+skin rashes,20
+anemia,20
+dullness,18
+hair loss,17
+fatigue,16
+nausea,15
+stumbling,15
+drooling,15
+jaundice,14
+emaciation,14
+staggering,13
+listlessness,13
+convulsion,12
+swollen,12
+chills,12
+dull ness,12
+abortion,11
+respiratory distress,11
+trembling,11
+pneumonia,10
+ruffled feathers,10
+fatique,10
+difficulty breathing,9
+ataxia,9
+change their normal behaviour,9
+wheezing,8
+facial edema,8
+cough,8
+lying down,8
+bloody discharge,8
+congestion,8
+colic,8
+facial swelling,7
+limping,7
+drooping ears,7
+abdominal pain,7
+stop eating,7
+painfull,7
+stiffness,7
+high temperature,7
+stop drinking,7
+bloody,7
+difficulty breating,7
+head ache,7
+neurologic abnormalities,7
+loss of appettite,7
+upset stomach,6
+tenderness,6
+discomfort,6
+mortality,6
+restlessness,6
+heavy breathing,6
+discharge,6
+extending its neck,6
+difficulty swallowing,6
+eye redness,6
+lesions on nose,6
+lack of coordination,6
+reduce growth,6
+rhinorrhea,6
+circling,6
+bottle jaw,6
+gasping for air,6
+lathargy,6
+scabs,6
+headache,6
+constipation,6
+swollen abdomen,6
+malpresentation,6
+droopy wings,6
+gasping for breath,6
+rapid pulse and heart rates,6
+muscle pain,6
+salivation,6
+stomach cramps,6
+muscle aches,6
+chest pain,6
+lameness in affected leg,6
+vomitting,6
+recumbency,6
+urination problem,6
+ulcers,5
+swelling on leg,5
+swollen lymph nodes,5
+runny nose,5
+fetopelvic dispropotion,5
+swelling of face or leg,5
+heat,5
+enlarged lymph nodes,5
+bloody diarrhea,5
+uteria inertia,5
+lession on the skin,5
+noisy breathing,5
+lesion,5
+joint pain,5
+skin issue,5
+straining,4
+loss of eat,4
+sickness,4
+immediate death,4
+normal appetite,4
+inability to stand,4
+paresis,4
+neck paralysis,4
+dejection,4
+labored breathing,4
+blood from mouth,4
+inappentence,4
+skin infection,4
+watery eyes,4
+head tilt,4
+tremor,4
+lllthrift,4
+foul smelling,4
+red skin,4
+sweating,4
+changed gait,4
+thirst,4
+weakened legs,4
+lacrimation,4
+itchiness,4
+infection,4
+stillbirth,4
+paralysis,4
+hemolytic anemia,4
+edema in lower jaw,4
+epistaxis,4
+halitosis,4
+torticollis,4
+redness,4
+exhaustion,4
+eye closed,4
+succumb,4
+muscular spasms,4
+twitching,4
+ulcer,4
+behaviour change,4
+crusty,4
+wool loss,4
+dizziness and fainting,4
+frequent eye infections,4
+eye disharge,4
+enteritis,4
+los of the ability to walk,4
+bad smell,4
+hemoglobinuria,4
+incoordination,4
+kid moratality,4
+abdominal discomfort,4
+slow growth,4
+difficulty in swallowing,4
+underdeveloped muscles,4
+pot belly,4
+facial paralysis,4
+mild weakness,4
+distended stomach,4
+inappetence,4
+muscles problem,4
+discharge from eye,4
+scartch,4
+urination,4
+shock,4
+aneamia,4
+twisted neck,4
+experiencing changes in weight,4
+self-isolation,4
+anaemia,4
+decrease appetite,4
+abdonormal pain,4
+shaking oh head,4
+pain and bloating,4
+short term lethargy,3
+diarrhea with muscus,3
+strong cough,3
+lesions in the nasal cavity,3
+greenish-yellow nasal discharge,3
+discharge from eyes,3
+listless,3
+tear production,3
+inflammation,3
+bloody drool,3
+difficulty walking,3
+chronic eye inflamation,3
+tensemus,3
+inflammed eye,3
+dandruff,3
+lack of pigmentation,3
+scartching ear,3
+thrist and urination,3
+weekness in the back legs,3
+back pain,3
+reduce energy,3
+watery stool,3
+nose bleeds,3
+darkened skin,3
+kicking at the belly,3
+hyperesthesia,3
+tarry stool,3
+unable to eat,3
+broken bones,3
+rapid heart rate,3
+flatulence,3
+eye and skin change,3
+crusting of the skin,3
+blue eye,3
+lossened teeth,3
+enlarged lymph nodes or swelling,3
+week pulse,3
+vaginal discharge,3
+severe weekness and depression,3
+swelling of joints,3
+unable to exercise,3
+ulcerated skin,3
+pain on face,3
+poor coat apperence,2
+watering,2
+allergic reaction,2
+pnemonia,2
+bloody urine,2
+dark or black face,2
+appetite varies,2
+nasal bleeding,2
+gasc,2
+shaking head,2
+attacks,2
+blood stool,2
+polyuria,2
+exessive urination,2
+lession on cat skin,2
+skin irritation,2
+floopy muscle,2
+sensitivity to bright light,2
+scaly patches of skin,2
+fatty stool,2
+most often none,2
+rhinitis,2
+red on affected area,2
+watering diarrhea,2
+loss in weight,2
+egg production decreases,2
+abortion at the end of gestation,2
+fluif faeces on blood and muscle,2
+severe,2
+excitability,2
+animal gets uneasy,2
+small red bumps,2
+ring shaped lesion,2
+bubbles in the mouth,2
+changes in outer layer skin,2
+red tinge,2
+passing of undigested food,2
+smell,2
+loss of activity,2
+bald patches,2
+poor condition,2
+heavy infection,2
+thicked skin,2
+general malaise,2
+oedema,2
+poor growth,2
+partial paralysis,2
+thick crusting,2
+constant pacing,2
+loss od appetite,2
+indigestion,2
+blood in urine,2
+sores on lip,2
+abortion on late pregancy,2
+decreased milk,2
+swelling of udder,2
+skinallergy,2
+watering of eyes,2
+berberi,2
+gastritis,2
+gas,2
+edema,2
+drooping wings,2
+severe swellimg,2
+shallow breathing,2
+air sacculitis,2
+hemopytsis,2
+stripped remiges,2
+apathy,2
+lepatomegaly,2
+balance problem,2
+legness,2
+difficulty in feeding,2
+forthy eye,2
+lack of walking,2
+scabs on feet,2
+enlarged thymus,2
+fluffed feather,2
+puffed_up feather,2
+tail wagging,2
+overweight,2
+pale comb,2
+liquid dropping,2
+undigested in their feces,2
+sharp feather,2
+ruffled appearance,2
+sinuses,2
+feather loss,2
+bony lesion,2
+tremor of head and neck,2
+swollen belly,2
+signs in rams,2
+spines,2
+excess salivation,2
+decreased growth of bone,2
+swollen left abdomen,2
+cessation of eructation,2
+barren ewes,2
+haemorrhage,2
+bloody diarhhea,2
+reluctant move,2
+poor wool,2
+poor immune function,2
+watery diarrhea dispropotion,2
+severe kerititis,2
+sheep often bites,2
+pyrexia,2
+groosly enlarged,2
+hyperexcitability,2
+decreased eyelid,2
+inability to digest,2
+unsteady gait,2
+smell of ammonia,2
+wandering,2
+tremors,2
+wool is clumped,2
+swaying,2
+cell damage,2
+formation of vesicles,2
+skeleten abnormalities,2
+wether restless,2
+bluish white opacity,2
+shortness of breath.,2
+gasping,2
+excessive blood loss,2
+nosebleed,2
+bleeding from other parts of the body,2
+bad breath,2
+excessive eye watering,2
+unable to urinate,2
+extreme thirst,2
+egg production stops,2
+burning ache or pain,2
+continuous loss of weight,2
+outstretched neck,2
+undernutrition,2
+feline infections,2
+eye discharges,2
+no appp,2
+anoxeria,2
+willnot run to jump,2
+eye ulcer,2
+diffculty breathing,2
+fell unwell,2
+diffulty chewing,2
+lesions,2
+nosebleeds,2
+change in gait,2
+loss of consciousness,2
+rapid breathing,2
+weekness,2
+dandruff in cat coat,2
+scartching,2
+speech delay,2
+disharge from affected eye,2
+erythema,2
+sore,2
+swelling in the bite area,2
+mild sneezing,2
+pox lession on skin,2
+horny growth,2
+stunted growth,2
+red-colored,2
+distress,2
+animal become lame,2
+slightly swollen,2
+dull,2
+nervousness,2
+ulcer on gum,2
+body stiffness,2
+trouble walking,2
+round patches,2
+swelling of eye,2
+slim over the shell,2
+rough coat,2
+hair tining,2
+loss of earing,2
+hepatic failure,2
+muscle loss,2
+short stature,2
+uncharacteristic hiding,2
+poor coat condition,2
+staggering as drunk,2
+facial muscle twitching,2
+abdminal pain,2
+malaise,2
+mummification,2
+dark colored bloody,2
+dysentery,2
+holding limbs off the ground,2
+change in milk,2
+wound lesion,2
+redness of white of the eye,2
+morbidity,2
+severe headache,2
+yellow or green dropping,2
+hepatitis,2
+unilateral nasal discharge,2
+neurologic sign,2
+less feather growth,2
+splenomegaly,2
+abdominal destention,2
+sour throat,2
+preening,2
+lack of flying,2
+small and yellow bumps,2
+obstructed lungs,2
+difficultty in breathing,2
+yellow in beak,2
+less eat,2
+secondary infection,2
+lame,2
+clubbed feather,2
+swollen eyelids,2
+feather plucking,2
+signs in ewe,2
+unusally thin,2
+sudden abortion,2
+excession salivation,2
+viability,2
+tachypea,2
+skin lesion,2
+straw colored,2
+achomotrica,2
+sick,2
+conjunctive,2
+testical pain,2
+fleece become thin,2
+kick,2
+reduce reproductive potential,2
+oral lesion,2
+skin colour change,2
+skin may thicken,2
+very cold skin,2
+foot hot,2
+warm,2
+lying on the side,2
+feels stiff,2
+hot joints,2
+nostrils,2
+facial defects,2
+kicking,2
+pains to walk,2
+panting,2
+sneeze,2
+trauma,2
+confusion,2
+pawing at the face or nose,2
+decreased stool production,2
+lightheadedness,2
+broody behavior,2
+regurgitation of food,2
+mild colic,2
+high body temperaure,2
+dry or tacky gums,2
+swelling problem,2
+drinking polluted water,2
+lymphosarcoma,2
+foul breath,2
+hydrophobia,2
+blood in stool,2
+black on ear,2
+inflamed nostrils,2
+chewing,2
+red patches,2
+intellectual disability,2
+eyeproblem,2
+dry or dull hair,2
+abscessess,2
+blue colored lip,2
+skin reashes,2
+wart-like growth,2
+skin ulcer,2
+swollen purple wattle,2
+weak calves,2
+hot udder,2
+prostrat,2
+dribbling of saliva,2
+blooody fluid,2
+stand with head droping,2
+hind quarted soil,2
+blood on faces,2
+relunctance to move,2
+swelling may occur under jaw,2
+hardness,2
+attack,2
+red eye,2
+difficult in respiration,2
+severe colic,2
+kidney failure,2
+septic arthritis,2
+aggressiveness,2
+dry skin,2
+vitamin and minerals defiency,2
+muscle weakness,2
+nause,2
+skeleten pain,2
+swelling of neck,2
+enlargement of bones,2
+sweat,2
+infection of the skin,2
+self mutilation,2
+abnormalalities,2
+sores on lower leg and teats,2
+retained placenda,2
+mucous discharge,2
+occular discharge,2
+excess salivary,2
+wound,2
+swelling of eyelid,2
+nervous,2
+swollen kidney,2
+decreased appetite,2
+purplish combs,2
+paralyzed leg,2
+high moratality,2
+gagging,2
+conjuctivtis,2
+asymptomatic,2
+blue straws,2
+dilation of duodenum,2
+ear infection,2
+tremors of the head,2
+roughened,2
+trachea,2
+yellow eye,2
+tail_bobbing,2
+stress,2
+retarded growth,2
+loss of pigment,2
+spread of infection,2
+sweats,2
+muscle twiching,2
+hyperaestesia,2
+muscles ache,2
+grunting,2
+abnormal conformation,2
+poor conformation,2
+swelling of head and neck,2
+flank,2
+bloody droping,2
+small intestines,2
+despression,2
+corneal ulceration,2
+itches,2
+dirty,2
+loss of wool,2
+rub,2
+rough hair coat,2
+agalactia,2
+moist,2
+flabby,2
+gums,2
+muscus,2
+strange behaviour,2
+clearly unthrifty,2
+relunctance to walk,2
+painfull to touch,2
+difficulty in rising,2
+pustulses,2
+abnormally long leg,2
+sluggish,2
+scaly skin,2
+scartches,2
+fast breathing,2
+"facial swelling,",2
+chirping,2
+blurry vision,2
+crusty eye lashes and matting of eyelashes,2
+rapid heartbeats,2
+droopiness,2
+loss of tail tone,2
+respiratory noise,2
+muscular stiffness,2
+lack of appetite,2
+reduced appetite,2
+diffuse,2
+bleeding from wounds,2
+swollen teats,2
+week legs,2
+jaw is dropped,2
+blood in faces,2
+lumps,2
+stomach growling,2
+swallowing,2
+walking problem,2
+clouded cornea,2
+cramps,2
+firm,2
+limp,2
+liver disease,2
+nasal,2
+grinding teeth,2
+ruffled coat,2
+swollen comb,2
+distinctive bumps,2
+closed eyes,2
+mammary glads,2
+join pains,2
+milk getting out more watery,2
+painfull swalling,2
+inability of swalllon feeding,2
+red diarrhea,2
+milky hard,2
+animal stop feed,2
+appetite,2
+hyper sensitivity,2
+bite other animals,2
+yellowish discharge,2
+consistency of milk,2
+excessive production,2
+severe inflammation,2
+inflammation of eye,2
+size of lesions vary,2
+easily damage shell,2
+gas or bloating,2
+excess sleeping,2
+flaky,2
+progressive weakness,2
+scabbing,2
+white mark on the muscle,2
+acting aggressive,2
+watery eye,2
+endomeritis,2
+pulmonary congestion,2
+weak kids,2
+pox lesion,2
+reduce feed,2
+tender to touch,2
+mouth lesion,2
+difficult in walking,2
+shivering,2
+cornea become cloudy,2
+hematuria,2
+decresed egg production,2
+wattles,2
+retching,2
+urine retention,2
+defienciency in vitamin,2
+cloacal pasting,2
+beak overgrowth,2
+dry scabs,2
+thickening of skin,2
+half-closed eye,2
+swolling of joint,2
+loss of powder down,2
+green dropping,2
+itching,2
+exercise in tolerance,2
+semen examination,2
+enlarged skulls,2
+death of lamb,2
+deability,2
+weak pulse,2
+hock joint,2
+ulcerated muscle,2
+hairy fleeces,2
+swelling on thebody,2
+rump,2
+small size,2
+iris prolapse,2
+scratches,2
+stained wool,2
+nible at their wool,2
+loss of milk production,2
+raw,2
+edematous,2
+lip,2
+reduce milk,2
+infected navels,2
+swelling on joints,2
+head pressing,2
+tears,2
+jerky limb movements,2
+pruritis,2
+difficulty in walk,2
+scabs on lip,2
+flat ribs,2
+attempt to urinate,2
+production of mucus,2
+nose picking,2
+loss of alertness,2
+foul smelling stools,2
+mucus discharge from the eye,2
+fluffed feathers,2
+rectal bleeding,2
+inability to fly,2
+excessive food intake,2
+gurgling sound,2
+urine dribbling,2
+difficulty diagnosis,2
+frequent yawning,2
+stomatitis,2
+high body temperature,2
+muscle stiffness,2
+distended chest,2
+pain on leg,2
+pink eye,2
+arthritis,2
+shyness or aggression,2
+pale gums,2
+raised growth or bump,2
+"bumps(black,grey or red)",2
+black stool,2
+red and inflammation ear,2
+periodic vommiting,2
+lound breathing,2
+polydipsa,2
+inability to jump,2
+salivating,2
+effort to breath,2
+excessive grooming,2
+eye movements,2
+rubbing eye,2
+nuerological,2
+ocular discharge,2
+septicemia,2
+mortality varies,2
+lesions on ear,2
+swollen and painfull,2
+diarrhoea,2
+inability to absorb nutrients,2
+fluif filled blisters,2
+swelling of internal organs,2
+milk getting out more thick,2
+moist and painfull,2
+faeces are streake with blood,2
+abnormal behaviour,2
+papules appear on teats anad udder,2
+decrease in milk production,2
+milk reduce,2
+drop in milk production,2
+dry hair coat,2
+eye become dull,2
+stamping and pedding of hind eye,2
+obscure lameness,2
+respiratory infection,2
+flaking of the scutes,2
+folded ears,2
+eventually death,2
+red lesion from bald patches,2
+abdonormal discomfort,2
+throat and ear pain,2
+weigth bearing long bones,2
+stopped eat,2
+loss of vitamin e,2
+acting unnaturally tame,2
+bleeding in eye and skin,2
+terminal convulsion,2
+weight gain,2
+wool production,2
+dizziness,2
+greenish diarrhea,2
+drop on egg production,2
+weightloss,2
+pharyngitis,2
+shortness of breath,2
+abnormalities,2
+snoring,2
+diphtherictic,2
+sleeping excessively,2
+vision problem,2
+bloody in feather,2
+misshapen beak,2
+nervous issue,2
+reduce lamp marking,2
+blood poisioning,2
+extension of neck,2
+ulcerated ear,2
+flock moratality,2
+carcass decomposes,2
+poor body condition,2
+loss of eye,2
+tail shaking,2
+scratching,2
+sloughing of the tail,2
+sensitive to touch,2
+blood clots,2
+good appetite,2
+increased in breathing,2
+not eating,2
+oxygen defiency,2
+dry air,2
+bleeding from the nose,2
+restless movement,2
+increased passing gas,2
+lack of vocalizations,2
+loss of wariness,2
+undigested seeds,2
+inability to rise,2
+difficulty moving and eating,2
+thivk skin,1
+dizzines,1
+skin color change,1
+radip onset,1
+head shking,1
+isolation from flock,1
+head tossing,1
+anversion to light,1
+stiff,1
+discharge from ear,1
+redness of eye,1
+larynx,1
+stealing,1
+difficulty in walking,1
+aversion to light,1
+diffulty swallowing,1
+muscle trembling,1
+swelling on jaw,1
+nesting behaviour,1
+grinding of teeth,1
+tear produce,1
+excessive drooling,1
+irritation,1
+odor to ear,1
+profuse,1
+hoarseness,1
+urine infection,1
+pawing at bedding,1
+bleeding wounds,1
+blister,1
+redness on ear,1
+neck vein swelling,1
